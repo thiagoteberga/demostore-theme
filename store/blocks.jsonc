@@ -60,5 +60,10 @@
 
   "store.product-review-form": {
     "blocks": ["product-review-form"]
+  },
+  "product-summary-image": {
+    "props": {
+      "width": 281
+    }
   }
 }

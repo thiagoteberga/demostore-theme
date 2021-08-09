@@ -3,22 +3,12 @@
 
 
 ## Melhorando performance
-- [ ] Melhorando load inicial
-- [ ] Otimizando menus
-- [ ] Otimização de submenus
-- [ ] Imagens
-- [ ] Melhorias na busca
-- [ ] Refatorando blocos
-
-
-## Tornando sua loja única
-
-- [ ] Introdução
-- [ ] CSS handles e o poder da customização de blocos
-- [ ] Estilos globais
-- [ ] Criando templates customizados
-- [ ] Explorando o poder do rich text
-- [ ] Construindo uma landing customizada de busca
+- [x] Melhorando load inicial
+- [x] Otimizando menus
+- [x] Otimização de submenus
+- [x] Imagens
+- [x] Melhorias na busca
+- [x] Refatorando blocos
 
 
 
